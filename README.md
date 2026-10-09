@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/ablach-dev/qa-automation-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/ablach-dev/qa-automation-portfolio/actions/workflows/playwright.yml)
+
 # Playwright QA Automation Portfolio
 
 A test automation framework built with **Playwright**, **TypeScript**, and **GitHub Actions**. This portfolio demonstrates scalable test architecture, modular Page Object Models (POM), and automated CI/CD execution across multiple testing layers.
